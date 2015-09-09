@@ -3,6 +3,7 @@ store:
   contact: Helion Development Platform <heliondev@hp.com>
   icon: http://static.als.hpcloud.com/hp.ico
 
+apps:
 - name: ' Helion-HelloWorld-Java3-agent'
   id: helion-helloworld-java
   desc: HP Helion Development Platform sample application that demonstrates the code required for a basic HelloWorld application in Java.
