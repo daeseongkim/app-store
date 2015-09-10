@@ -12,4 +12,3 @@ apps:
   info: https://github.com/HelionDevPlatform/helion-hello-world-java/blob/master/README.md
   icon: http://static.als.hpcloud.com/hp-helion-logo.png
   mem: 32
-  buildpack: https://github.com/daeseongkim/java-buildpack-offline-v3.1.1-agent.git
