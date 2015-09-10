@@ -7,10 +7,9 @@ apps:
 - name: ' Helion-HelloWorld-Java3-agent'
   id: helion-helloworld-java
   desc: HP Helion Development Platform sample application that demonstrates the code required for a basic HelloWorld application in Java.
-  framework: java_web
-  runtime: java3-agent
   commit: master
   src: https://github.com/HelionDevPlatform/helion-hello-world-java.git
   info: https://github.com/HelionDevPlatform/helion-hello-world-java/blob/master/README.md
   icon: http://static.als.hpcloud.com/hp-helion-logo.png
   mem: 32
+  buildpack: https://github.com/daeseongkim/java-buildpack-offline-v3.1.1-agent.git
